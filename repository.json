@@ -1,5 +1,5 @@
 {
-  "name": "Synesthesiam Hass.IO Add-Ons",
-  "url": "https://github.com/synesthesiam/hassio-addons",
-  "maintainer": "Michael Hansen <hansen.mike@gmail.com>"
+  "name": "kentloving fork of Synesthesiam Hass.IO Add-Ons",
+  "url": "https://github.com/kentloving/hassio-addons-2",
+  "maintainer": "Kent Loving <hansen.mike@gmail.com>"
 }
