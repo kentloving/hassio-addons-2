@@ -20,6 +20,5 @@ RUN apt-get update \
     && git clone "https://github.com/respeaker/seeed-voicecard.git" \
     && cd seeed-voicecard \
     && chmod a+x ./install.sh \
-    && ./install.sh \
     && rm -rf .git \
     && apt-get purge -y --auto-remove git
