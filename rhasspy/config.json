@@ -5,6 +5,7 @@
   "description": "Offline voice assistant for Home Assistant",
   "url": "https://github.com/kentloving/hassio-addons-2/tree/master/rhasspy",
   "startup": "application",
+  "image": "kloving/rhasspy",
   "arch": [
     "aarch64",
     "amd64",
